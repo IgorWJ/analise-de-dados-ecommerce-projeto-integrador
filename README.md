@@ -20,7 +20,7 @@ A proposta é entender como o trabalho remoto impactou a produtividade, preferê
 - João Vitor Cândido de Andrade  
 - Christian Neis Rodrigues
 - Francisco Cury Bernardi
-
+- Admilson Muniz Ramos 
 ---
 
 ## Link do Trello
