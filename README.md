@@ -1,36 +1,70 @@
-# Analise de dados relevantes ao cenário de home-office na pandemia (2020-2021)
-Projeto acadêmico de Ciência de Dados com foco na análise dos impactos e opiniões sobre o periódo de lockdown dévido a pandemia de COVID-19.
+# Análise de Dados sobre Home Office na Pandemia (2020–2021)
 
-## Adoção do Trabalho Remoto
+## Descrição do Projeto
+Este projeto acadêmico de Ciência de Dados tem como objetivo analisar dados relevantes sobre o cenário de **home office durante a pandemia de COVID-19 (2020–2021)**.
+
+A proposta é entender como o trabalho remoto impactou a produtividade, preferências e percepções dos trabalhadores durante o período de lockdown.
+
+---
+
+## Objetivos
+- Analisar a adoção do trabalho remoto durante a pandemia  
+- Avaliar a percepção de produtividade dos trabalhadores  
+- Identificar barreiras e benefícios do home office  
+- Compreender as expectativas para o futuro do trabalho remoto  
+
+---
+
+## Integrantes do Grupo
+- Nome 1  
+- Nome 2  
+- Nome 3  
+- Nome 4  
+- Nome 5  
+- Nome 6  
+- Nome 7  
+
+---
+
+## Link do Trello
+Acesso ao quadro do projeto:  
+https://trello.com/invite/b/69a8a83d30e71f6c46aa708c/ATTI3f9fddcd2e08ec4e89cead6954a1378cC49058B8/analise-inteligente-de-dados-de-vendas-online
+
+---
+
+## Análises Realizadas
+
+### Adoção do Trabalho Remoto
 Análise sobre o uso e a preferência pelo modelo remoto durante a pandemia:
+- Comparação entre tempo real vs. tempo preferido de trabalho remoto  
+- Distribuição do tempo remoto entre os participantes  
 
-**Tempo real vs. preferido** — comparação entre o que aconteceu e o que os trabalhadores queriam
+---
 
-**Distribuição do tempo remoto** — como a amostra se dividiu entre quem trabalhava pouco ou muito de casa
+### Percepção de Produtividade
+Avaliação da produtividade no trabalho remoto em comparação ao presencial:
+- Visão geral: mais produtivo, igual ou menos produtivo  
+- Detalhamento em escala percentual da produtividade autopercebida  
 
+---
 
-## Percepção de Produtividade
-Como os respondentes avaliaram seu próprio rendimento no trabalho remoto em comparação ao presencial:
+### Barreiras e Sentimentos
+Fatores que influenciaram a experiência do home office:
+- Principais barreiras enfrentadas  
+- Melhores aspectos do trabalho remoto  
+- Piores aspectos percebidos  
 
-**Visão geral** — proporção entre mais produtivo, igual e menos produtivo
+---
 
-**Detalhamento** — escala completa de variação percentual de produtividade autopercebida
+### Perspectiva Pós-Pandemia
+Expectativas dos trabalhadores em relação ao futuro do trabalho remoto:
+- Intenção de continuar no modelo remoto  
+- Distribuição das preferências para o futuro  
 
+---
 
-## Barreiras e Sentimentos
-O que facilitou e o que atrapalhou a experiência do trabalho remoto:
-
-**Principais barreiras** — os maiores obstáculos enfrentados pelos trabalhadores
-
-**Melhores aspectos** — o que as pessoas mais valorizaram no home office
-
-**Piores aspectos** — o que mais incomodou ou prejudicou a experiência
-
-
-
-##Perspectiva Pós-Pandemia
-Como os trabalhadores enxergavam o futuro do trabalho remoto após o fim da COVID-19:
-
-**Intenção de manter o remoto** — desejo de continuar trabalhando de casa mesmo sem a obrigatoriedade
-
-**Distribuição de preferências** — como a amostra se dividiu entre quem quer mais ou menos remoto no futuro
+## Tecnologias Utilizadas
+- Python  
+- Pandas  
+- Matplotlib / Seaborn *(se aplicável)*  
+- Jupyter Notebook  
